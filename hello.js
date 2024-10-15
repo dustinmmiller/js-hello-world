@@ -3,8 +3,10 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
+const myChoice = '"Nevermore"';
 
-console.log("Hello");
+console.log('This is how I made' + '\nseveral messages' + ' together!');
+console.log(`also like this ${myChoice}!`);
 
 /*  
 Next, PLAY! 
